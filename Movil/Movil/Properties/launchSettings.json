@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Movil": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
